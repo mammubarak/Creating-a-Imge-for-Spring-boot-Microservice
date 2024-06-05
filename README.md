@@ -25,11 +25,6 @@ GovConnect is an e-government enterprise system designed to provide citizens wit
 3. Navigate to the frontend directory and run `npm install` followed by `npm run serve` to start the Vue.js frontend server.
 4. Access the GovConnect application at `http://localhost:8080` in your web browser.
 
-## Contact
-For any inquiries or feedback, please contact [smtmsamarakoon@students.nsbm.ac.lk].
-
-[GitHub Link]: <https://github.com/this8/govconnect-ugsp.git>
-
 # Dockerization-of-Spring-boot-Microservice
 
 Successfully containerized a Spring-boot microservice using Docker and Docker Compose. Developed a Dockerfile to build an image with OpenJDK for a Java-based application and configured “docker-compose.yml” for multi-container orchestration. Networked and port bind with MySQL and phpMyAdmin. 
